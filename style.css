@@ -705,7 +705,7 @@ button {
 }
 
 .workflow h4 {
-    font-size: 10px;
+    font-size: 12px;
     margin: 0 0 9px;
 }
 
@@ -730,11 +730,11 @@ button {
 
 .group b {
     display: block;
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .group small {
-    font-size: 7px;
+    font-size: 9px;
     color: #68758a;
 }
 
@@ -771,7 +771,7 @@ button {
 
 .generate-panel select {
     width: 100%;
-    font-size: 8px;
+    font-size: 10px;
     padding: 7px;
     border: 1px solid #e4eaf2;
     border-radius: 5px;
@@ -785,7 +785,7 @@ button {
     text-align: left;
     border-radius: 6px;
     margin-bottom: 7px;
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .resource span {
